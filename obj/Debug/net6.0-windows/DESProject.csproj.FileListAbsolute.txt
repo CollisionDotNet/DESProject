@@ -1,0 +1,16 @@
+C:\Users\Pawel\source\repos\DESProject\DESProject\bin\Debug\net6.0-windows\DESProject.exe
+C:\Users\Pawel\source\repos\DESProject\DESProject\bin\Debug\net6.0-windows\DESProject.deps.json
+C:\Users\Pawel\source\repos\DESProject\DESProject\bin\Debug\net6.0-windows\DESProject.runtimeconfig.json
+C:\Users\Pawel\source\repos\DESProject\DESProject\bin\Debug\net6.0-windows\DESProject.dll
+C:\Users\Pawel\source\repos\DESProject\DESProject\bin\Debug\net6.0-windows\DESProject.pdb
+C:\Users\Pawel\source\repos\DESProject\DESProject\obj\Debug\net6.0-windows\DESProject.csproj.GenerateResource.cache
+C:\Users\Pawel\source\repos\DESProject\DESProject\obj\Debug\net6.0-windows\DESProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pawel\source\repos\DESProject\DESProject\obj\Debug\net6.0-windows\DESProject.AssemblyInfoInputs.cache
+C:\Users\Pawel\source\repos\DESProject\DESProject\obj\Debug\net6.0-windows\DESProject.AssemblyInfo.cs
+C:\Users\Pawel\source\repos\DESProject\DESProject\obj\Debug\net6.0-windows\DESProject.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\DESProject\DESProject\obj\Debug\net6.0-windows\DESProject.dll
+C:\Users\Pawel\source\repos\DESProject\DESProject\obj\Debug\net6.0-windows\refint\DESProject.dll
+C:\Users\Pawel\source\repos\DESProject\DESProject\obj\Debug\net6.0-windows\DESProject.pdb
+C:\Users\Pawel\source\repos\DESProject\DESProject\obj\Debug\net6.0-windows\DESProject.genruntimeconfig.cache
+C:\Users\Pawel\source\repos\DESProject\DESProject\obj\Debug\net6.0-windows\ref\DESProject.dll
+C:\Users\Pawel\source\repos\DESProject\DESProject\obj\Debug\net6.0-windows\DESProject.Form1.resources
